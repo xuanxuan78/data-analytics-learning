@@ -1,2 +1,13 @@
 # data-analytics-learning
-My journey learning data analytics
+
+This repository records my journey of learning data analytics.
+
+Skills:
+
+- Excel
+- SQL
+- Python
+- Statistics
+- Data Visualization
+
+Projects will be added here.
