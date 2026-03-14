@@ -1,0 +1,54 @@
+# Superstore Sales Analysis
+
+## Project Overview
+
+This project analyzes a retail sales dataset using Excel to identify sales patterns and key business insights.
+
+The analysis focuses on:
+
+- Top selling products
+- Sales by city
+- Monthly sales trend
+
+---
+
+## Dataset
+
+The dataset contains sales transaction data including:
+
+- Order Date
+- Product Name
+- City
+- Category
+- Sales
+
+---
+
+## Dashboard
+
+The Excel dashboard includes:
+
+- Top 10 products by sales
+- Top 10 cities by sales
+- Monthly sales trend
+
+---
+
+## Key Insights
+
+1. Canon ImageCLASS 2200 Advanced Copier is the best-selling product.
+
+2. New York City generates the highest sales among all cities.
+
+3. Sales show a steady increase from 2015 to 2018.
+
+4. Sales tend to peak toward the end of the year.
+
+---
+
+## Tools Used
+
+- Excel
+- Pivot Tables
+- Pivot Charts
+- Data Cleaning
