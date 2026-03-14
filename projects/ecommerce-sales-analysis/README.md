@@ -1,9 +1,26 @@
 # Ecommerce Sales Analysis
 
-This project analyzes ecommerce sales data.
+This project explores a retail sales dataset to understand product performance, geographic distribution, and sales trends.
 
-Goals:
+## Project Structure
 
-- Analyze sales trends
-- Identify top products
-- Analyze regional sales
+data  
+Raw dataset used for analysis.
+
+visualizations  
+Dashboard screenshots.
+
+report  
+Written analysis and insights.
+
+## Key Analysis
+
+- Top 10 products by sales
+- Top 10 cities by sales
+- Monthly sales trends
+
+## Tools
+
+- Excel
+- Pivot Tables
+- Data Visualization
